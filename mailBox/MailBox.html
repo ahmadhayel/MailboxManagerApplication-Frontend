@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>File Upload</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="container">
+    <h1>File Upload</h1>
+    <form id="uploadForm">
+      <input type="file" id="fileInput" multiple />
+      <input
+        type="text"
+        id="senderIds"
+        placeholder="Sender IDs (comma separated)"
+      />
+      <input
+        type="text"
+        id="recipientIds"
+        placeholder="Recipient IDs (comma separated)"
+      />
+      <button type="submit">Upload</button>
+    </form>
+    <div id="message"></div>
+    <h2>Delete File</h2>
+    <input type="number" id="fileIdToDelete" placeholder="File ID" />
+    <button onclick="deleteFile()">Delete</button>
+
+    <script src="script.js"></script>
+  </body>
+</html>
