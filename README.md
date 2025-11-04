@@ -67,3 +67,9 @@ Frontend-projektet kompletterar backend-applikationen och erbjuder:
 - Enkel integration med backend via API
 
 Frontend och backend tillsammans skapar en komplett digital brevlåda som är användarvänlig, skalbar och lätt att underhålla.
+---
+<img width="1662" height="815" alt="Skärmavbild 2025-11-04 kl  15 23 37" src="https://github.com/user-attachments/assets/8f4230e9-fc9b-4ebf-bed5-c8cc4627fb34" />
+<img width="1692" height="597" alt="Skärmavbild 2025-11-04 kl  15 23 06" src="https://github.com/user-attachments/assets/370fb5d8-a427-49cf-942c-7a677f37e6b9" />
+<img width="1663" height="758" alt="Skärmavbild 2025-11-04 kl  15 22 56" src="https://github.com/user-attachments/assets/373496d5-aab3-41b7-ad93-2e62f65e9ac8" />
+<img width="1692" height="597" alt="Skärmavbild 2025-11-04 kl  15 22 41" src="https://github.com/user-attachments/assets/7c8f5740-525e-4bfc-998f-5a713687bb69" />
+
